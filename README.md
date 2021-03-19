@@ -1,6 +1,6 @@
 # Ceph - a scalable distributed storage system
 
-Please see http://ceph.com/ for current info.
+Please visit http://ceph.com/ for up-to-date information.
 
 
 ## Contributing Code
@@ -185,7 +185,7 @@ To run an individual test manually and see all the tests output, run
 
 	ctest -V -R [regex matching test name(s)]
 
-To run an tests manually and run the jobs in parallel, run `ctest` with 
+To run tests manually and run the jobs in parallel, run `ctest` with 
 the `-j` flag:
 
 	ctest -j [number of jobs]
